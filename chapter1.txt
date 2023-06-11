@@ -1,5 +1,7 @@
 Git kontrol için ilk deneme
 
+git init-->Çalıştıgımız dizini git klasörü haline getirir
+
 git status -->klasörde olan dosyalardan kırmızı olanlar izlenmeyen yeşil olanlar izlenen dosyalardır.
 
 git add dosyaAdi.uzanti-->dosyayı izlemeye alır. 
@@ -7,3 +9,9 @@ git add dosyaAdi.uzanti-->dosyayı izlemeye alır.
 git commit -m "Mesajını yaz"--->Commit eklemesi yapar.
 
 git log--->Commitlerle ilgili logları yazar.
+
+git add .-->Dizindeki bütün dosyaları izlenen alanına dahil eder.
+
+git checkout dosyaAdi.uzanti---> Yerel dosyayı git üzerindeki dosya haline getiri. Kaydedilen son hali yerele gelmiş olur.
+
+git diff dosyaadi.uzanti-->İstenilen dosyanın son hali ve git üzerindeki kayıtlı hali karşılaştırılır.
