@@ -1,1 +1,9 @@
 Git kontrol için ilk deneme
+
+git status -->klasörde olan dosyalardan kırmızı olanlar izlenmeyen yeşil olanlar izlenen dosyalardır.
+
+git add dosyaAdi.uzanti-->dosyayı izlemeye alır. 
+
+git commit -m "Mesajını yaz"--->Commit eklemesi yapar.
+
+git log--->Commitlerle ilgili logları yazar.
