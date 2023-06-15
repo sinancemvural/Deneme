@@ -1,1 +1,7 @@
 Git kontrol için chapter2
+
+git branch dalAdi --->ana projeye dal ekler.
+
+git branch--->projedeki dalları gösterir * işareti hangi dalda ilerledigimiz bilgisini içerir.
+
+git checkout dalAdi-->istenilen brancha geçip projeyi onun üzerinden yürütmemizi saglar.Dallar arası geçiş
