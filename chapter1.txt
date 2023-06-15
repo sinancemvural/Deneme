@@ -15,3 +15,12 @@ git add .-->Dizindeki bütün dosyaları izlenen alanına dahil eder.
 git checkout dosyaAdi.uzanti---> Yerel dosyayı git üzerindeki dosya haline getiri. Kaydedilen son hali yerele gelmiş olur.
 
 git diff dosyaadi.uzanti-->İstenilen dosyanın son hali ve git üzerindeki kayıtlı hali karşılaştırılır.
+
+ git remote add myorigin https://github.com/sinancemvural/Deneme.git--->Githubdaki repository ile baglantı kuruyor.
+
+ git push -u myorigin master-->Yereldeki dosyaları repository içerisine gönderiyor.
+
+ git rm --cached -r . -->Git çalışma alanına add ile gönderdigimiz son dosyaları siler.
+
+ git clone indirilecekProjeninHTMLUzantısı-->Git üzerinden proje indirir.
+ 
