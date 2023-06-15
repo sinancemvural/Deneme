@@ -5,3 +5,5 @@ git branch dalAdi --->ana projeye dal ekler.
 git branch--->projedeki dalları gösterir * işareti hangi dalda ilerledigimiz bilgisini içerir.
 
 git checkout dalAdi-->istenilen brancha geçip projeyi onun üzerinden yürütmemizi saglar.Dallar arası geçiş
+
+git merge dalAdi--> Ana brancha yan branch eklenmiş ve ikisi ana dalda birleştirilmiş olur.
